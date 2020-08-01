@@ -1,0 +1,62 @@
+/*
+Theme Name: cr12_schedler
+Theme URI: http://schedler.codefactory.live
+Author: Rebecca Schedler for CodeFactory
+Author URI: http://schedler.codefactory.live
+Description: Theme for MountEverest Travel. Featured Images should be 800px width to work. Each Post needs one featured Image. 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: CodeFactory
+Tags: responsive, lovley, Wes
+*/
+
+/*Header*/
+.colorStripe{
+	min-height: 3vh;
+	background-color: #B66E56;
+}
+
+li > a {
+	font-size: 2rem;
+}
+/*index*/
+.c1{
+	color:  #313167;
+}
+
+.c2{
+	color:  #F3D28F;
+}
+
+.colorStripe2{
+	background-color: #F3D28F;
+}
+
+.t1{
+	font-size: 3rem;
+}
+
+
+
+
+/*single*/
+
+
+
+/*front-page*/
+
+.bg1{
+	background-color:  #F3D28F;
+}
+
+/*footer*/
+.footer{
+	background-color: #B66E56;
+}
+
+.footer > div{
+	color: white;
+	font-weight: bold;
+}
+
